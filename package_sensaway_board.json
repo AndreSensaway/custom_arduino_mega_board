@@ -1,0 +1,60 @@
+{
+  "packages":
+  [
+    {
+      "name": "sensaway",
+      "maintainer": "Sensaway",
+      "websiteURL": "https://sensaway.com",
+      "email" : "info@sensaway.com",
+      "platforms":
+      [
+        {
+          "name": "Sensaway Custom Arduino Mega Board",
+          "architecture": "atmega",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "url": "file:///C:/Users/tribo/Desktop/sensaway_custom_board.zip",
+          "archiveFileName": "sensaway_custom_board.zip",
+          "checksum": "MD5:532dec980e78e741432d186f37409034",
+          "size": "8563393",
+          "boards": [
+            {
+              "name": "Sensaway Custom Arduino Mega"
+            }
+          ],
+          "toolsDependencies":
+          [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.8.0-48-gb176eee"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.10.0-arduino9"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.0"
+            }
+          ]
+        }
+      ],
+      "tools":
+      [
+      ]
+    }
+  ]
+}
