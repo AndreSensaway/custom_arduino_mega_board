@@ -13,7 +13,7 @@
           "architecture": "atmega",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/AndreSensaway/custom_arduino_mega_board/blob/main/sensaway_custom_board.zip",
+          "url": "https://github.com/AndreSensaway/custom_arduino_mega_board/raw/main/sensaway_custom_board.zip",
           "archiveFileName": "sensaway_custom_board.zip",
           "checksum": "SHA-256:32d8e3f396140c6bae00d1c26197ecf71bc9afce2c6b42ebf9d23556cecfc3f0",
           "size": "8563393",
