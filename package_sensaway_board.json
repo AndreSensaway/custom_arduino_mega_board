@@ -15,7 +15,7 @@
           "category": "Contributed",
           "url": "https://github.com/AndreSensaway/custom_arduino_mega_board/blob/main/sensaway_custom_board.zip",
           "archiveFileName": "sensaway_custom_board.zip",
-          "checksum": "SHA-256:32D8E3F396140C6BAE00D1C26197ECF71BC9AFCE2C6B42EBF9D23556CECFC3F0",
+          "checksum": "SHA-256:32d8e3f396140c6bae00d1c26197ecf71bc9afce2c6b42ebf9d23556cecfc3f0",
           "size": "8563393",
           "boards": [
             {
