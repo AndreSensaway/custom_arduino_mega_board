@@ -10,7 +10,7 @@
       [
         {
           "name": "Sensaway Custom Arduino Mega Board",
-          "architecture": "atmega",
+          "architecture": "avr",
           "version": "1.0.0",
           "category": "Contributed",
           "url": "https://github.com/AndreSensaway/custom_arduino_mega_board/raw/main/sensaway_custom_board.zip",
