@@ -16,7 +16,7 @@
           "url": "https://github.com/AndreSensaway/custom_arduino_mega_board/raw/main/sensaway_custom_board.zip",
           "archiveFileName": "sensaway_custom_board.zip",
           "checksum": "SHA-256:5D3F9A7CF504E3D75025B56207CFDAD5388DC2BAB136D3628EFAB69FCE2EC6B5",
-          "size": "8563393",
+          "size": "8563385",
           "boards": [
             {
               "name": "Sensaway Custom Arduino Mega"
